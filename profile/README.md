@@ -19,6 +19,13 @@ watch them, hand them work and take it back — on your own machines, with nothi
 
 <br>
 
+<a href="https://github.com/ly-solutions/boards">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-boards-dark.svg">
+    <img alt="boards — whiteboards coding agents read as text and edit through an API." src="assets/card-boards-light.svg" width="100%">
+  </picture>
+</a>
+
 <a href="https://github.com/ly-solutions/agent-guard">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-guard-dark.svg">
@@ -37,6 +44,13 @@ watch them, hand them work and take it back — on your own machines, with nothi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-go-obs-dark.svg">
     <img alt="go-obs — standard HTTP RED metrics per route template for Go services." src="assets/card-go-obs-light.svg" width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/ly-solutions/agent-skills">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-skills-dark.svg">
+    <img alt="agent-skills — skills and hooks for coding agents in one marketplace." src="assets/card-agent-skills-light.svg" width="100%">
   </picture>
 </a>
 
