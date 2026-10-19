@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#0B0D10"/>
+  <g transform="translate(512 512) scale(0.8) translate(-512 -512)">
+    <g fill="none" stroke="#F2F2EE" stroke-linecap="round" stroke-linejoin="round" stroke-width="84">
+      <!-- l -->
+      <path d="M300 180 L 300 700 C 300 800, 350 840, 430 840"/>
+      <!-- y: two strands gathered into one -->
+      <path d="M520 400 C 520 560, 600 600, 660 600"/>
+      <path d="M800 400 L 800 760 C 800 860, 740 900, 640 900"/>
+      <path d="M660 600 L 800 600"/>
+    </g>
+    <rect x="618" y="548" width="84" height="104" rx="26" fill="#D4FF3A"/>
+    <circle cx="300" cy="180" r="62" fill="#D4FF3A"/>
+  </g>
+</svg>
