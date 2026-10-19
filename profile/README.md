@@ -1,19 +1,28 @@
-<p align="center">
-  <img src="logo.svg" width="120" alt="Ly Solutions">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/org-banner-dark.svg">
+  <img alt="Ly Solutions — open tools for people and coding agents working side by side." src="assets/org-banner-light.svg" width="100%">
+</picture>
 
-<h3 align="center">Ly Solutions</h3>
+<br>
 
-<p align="center">Open tools for people and coding agents working side by side.</p>
+Coding agents are becoming teammates. We build the open plumbing that lets them work next to people: run them,
+watch them, hand them work and take it back — on your own machines, with nothing hidden.
 
----
+<br>
 
-### Projects
+<a href="https://github.com/ly-solutions/harnessly">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-harnessly-dark.svg">
+    <img alt="harnessly — the open core of a workspace where people and coding agents work side by side." src="assets/card-harnessly-light.svg" width="100%">
+  </picture>
+</a>
 
-| | |
-|---|---|
-| **[harnessly](https://github.com/ly-solutions/harnessly)** | The open core of a workspace for Claude Code and Codex agents: the machine runtime and agent, in Go. Runs agents in tmux, tracks their state, and serves an API and sockets for a web UI. Apache-2.0. |
+<br>
 
-### Contributing
+**How we build**
 
-Issues and pull requests are welcome in each project. Security reports go through GitHub private vulnerability reporting on the project's **Security** tab.
+- **Open by default.** Apache-2.0, developed in the open.
+- **One binary.** Static Go builds with no runtime dependencies.
+- **Proven, not promised.** Every rewritten piece is checked against recorded behaviour of the system it replaces.
+
+<sub>Security reports: private vulnerability reporting on each project's <b>Security</b> tab.</sub>
