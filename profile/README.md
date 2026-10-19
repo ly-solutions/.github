@@ -19,6 +19,29 @@ watch them, hand them work and take it back — on your own machines, with nothi
 
 <br>
 
+<a href="https://github.com/ly-solutions/agent-guard">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-guard-dark.svg">
+    <img alt="agent-guard — safety hooks for coding agents." src="assets/card-agent-guard-light.svg" width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/ly-solutions/artifacts">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-artifacts-dark.svg">
+    <img alt="artifacts — a versioned catalog for documents written by people and coding agents." src="assets/card-artifacts-light.svg" width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/ly-solutions/go-obs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-go-obs-dark.svg">
+    <img alt="go-obs — standard HTTP RED metrics per route template for Go services." src="assets/card-go-obs-light.svg" width="100%">
+  </picture>
+</a>
+
+<br>
+
 **How we build**
 
 - **Open by default.** Apache-2.0, developed in the open.
